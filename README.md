@@ -1,4 +1,4 @@
-# Huddle Landing Page
+# Huddle Splash Page
 
 <p align="center">
  <img src="https://i.imgur.com/cphWGgZ.png" />
